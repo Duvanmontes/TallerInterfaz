@@ -22,6 +22,7 @@ namespace TallerInterfazz
         int Edad = 0;
         int Pulsaciones;
 
+
         private void Form1_Load(object sender, EventArgs e)
         {
 
